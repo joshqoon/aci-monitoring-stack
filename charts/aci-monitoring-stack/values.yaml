@@ -261,7 +261,7 @@ loki:
       size: 2Gi
   # Enable minio for storage
   minio:
-    enabled: true
+    enabled: false
   singleBinary:
     replicas: 0
   chunksCache:
